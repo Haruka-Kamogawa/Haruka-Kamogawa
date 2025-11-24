@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to My GitHub Profile 👋 
+# ~ Welcome to My GitHub Profile 👋 ~
 
 ## 🧩 About Me  
 🐶 I am currently working on creating my own website and learning English.  
