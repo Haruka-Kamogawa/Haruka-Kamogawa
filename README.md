@@ -9,7 +9,7 @@
   ## 🛠️ Tech Stack  
   ### *Programming Languages, Frameworks & Tools*
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,github,vscode,discord&theme=light" height="90" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,spring,php,laravel,mysql,github,vscode,discord&theme=light" height="90" />
 
   ## 📊 GitHub Status
 
@@ -22,6 +22,7 @@
          alt="GitHub Streak Stats" height="160" /> -->
     <!-- Top Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haruka-Kamogawa&layout=compact&card_width=350&langs_count=6&hide_border=false&bg_color=00000000&title_color=bf7bff&text_color=d6b4ff" height="160" />
+    
   </div>
   
   <div align="center">
